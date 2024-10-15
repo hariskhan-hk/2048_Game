@@ -2,7 +2,7 @@
 
 A modern, interactive version of the **2048 puzzle game**, built with **Python** and **Tkinter**. This project demonstrates the use of data structures and algorithms to create smooth gameplay with visually appealing graphics.
 
-## 🛠**Features**  
+## **Features**  
 - **Graphical Interface**: Created using **Tkinter** for dynamic and responsive gameplay.  
 - **Efficient Game Logic**:  
   - **Matrices** manage the game grid and handle tile movements and merging operations.  
